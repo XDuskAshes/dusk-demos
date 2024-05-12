@@ -1,3 +1,7 @@
+-- Landscape demo by XDuskAshes
+-- MIT License
+-- <https://github.com/XDuskAshes/dusk-demos/">
+
 local scenery = { "_|_","/-\\","_-_" }
 local defaultRoad = "___"
 
